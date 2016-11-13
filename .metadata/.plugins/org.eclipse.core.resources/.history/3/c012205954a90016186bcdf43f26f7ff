@@ -1,0 +1,10 @@
+package com.yqy;
+
+import java.io.IOException;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet("/ComputerSum")
+public class ComputerSum {
+
+}

@@ -1,0 +1,7 @@
+127.0.0.1 - - [12/Nov/2016:10:35:02 +0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [12/Nov/2016:10:37:29 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 200 987
+0:0:0:0:0:0:0:1 - - [12/Nov/2016:10:42:09 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 200 987
+127.0.0.1 - - [12/Nov/2016:10:58:37 +0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [12/Nov/2016:10:58:43 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 200 1116
+0:0:0:0:0:0:0:1 - - [12/Nov/2016:10:59:30 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 200 1116
+0:0:0:0:0:0:0:1 - - [12/Nov/2016:11:00:05 +0800] "POST /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 200 1186

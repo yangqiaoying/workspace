@@ -1,0 +1,6 @@
+package com.yqy;
+import java.io.IOException;
+
+public class ComputerSum {
+	
+}
