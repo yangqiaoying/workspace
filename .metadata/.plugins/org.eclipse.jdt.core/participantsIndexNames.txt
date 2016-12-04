@@ -1,9 +1,0 @@
-INDEX VERSION 1.126
-D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\481800452.index
-\JavaBean\src
-D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\804216662.index
-\JSPJavaBean\src
-D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1302349641.index
-\JavaBeanServlet\src
-D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3609231452.index
-\UserMVC\src
