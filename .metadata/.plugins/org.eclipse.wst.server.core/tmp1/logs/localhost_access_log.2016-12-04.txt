@@ -33,3 +33,12 @@
 0:0:0:0:0:0:0:1 - - [04/Dec/2016:19:41:16 +0800] "GET /UserMVC/xiaokeai.png HTTP/1.1" 404 991
 0:0:0:0:0:0:0:1 - - [04/Dec/2016:19:41:16 +0800] "GET /UserMVC/index.jsp HTTP/1.1" 200 1283
 0:0:0:0:0:0:0:1 - - [04/Dec/2016:19:41:16 +0800] "GET /UserMVC/xiaokeai.png HTTP/1.1" 404 991
+0:0:0:0:0:0:0:1 - - [04/Dec/2016:20:04:33 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 500 4332
+0:0:0:0:0:0:0:1 - - [04/Dec/2016:20:04:41 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 500 3358
+0:0:0:0:0:0:0:1 - - [04/Dec/2016:20:04:50 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 500 3358
+0:0:0:0:0:0:0:1 - - [04/Dec/2016:20:05:55 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 500 3358
+0:0:0:0:0:0:0:1 - - [04/Dec/2016:20:07:29 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 500 3358
+0:0:0:0:0:0:0:1 - - [04/Dec/2016:20:07:35 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 500 3358
+0:0:0:0:0:0:0:1 - - [04/Dec/2016:20:07:59 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 500 3358
+127.0.0.1 - - [04/Dec/2016:20:09:28 +0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [04/Dec/2016:20:09:33 +0800] "GET /JSPJavaBean/inputAndShow.jsp HTTP/1.1" 200 1186
