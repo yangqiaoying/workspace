@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:JavaBeanServlet" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:UserMVC" serverId="Tomcat v7.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:JavaBean" serverId="Tomcat v7.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:JSPJavaBean" serverId="Tomcat v7.0 Server at localhost"/>
 </modules>
