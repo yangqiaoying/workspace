@@ -19,6 +19,5 @@
 		<%base.insertData(); %>
 		<jsp:getProperty name="base" property="queryResult" />
 	</font>
-
 </body>
 </html>
